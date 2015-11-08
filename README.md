@@ -1,2 +1,2 @@
-# http://programmingAlgorithm
-codeprogrammingalgorithm
+# http://programmingAlgorithm.github.io
+codeprogrammingalgorithm.github.io
